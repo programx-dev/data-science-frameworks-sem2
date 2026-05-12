@@ -1,1 +1,4 @@
-.venv
+.venv/
+data/input_frames/
+data/output_frames/
+best_model.pth
